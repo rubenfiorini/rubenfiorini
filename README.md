@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @rubenfiorini
+- 👋 Hi, I’m @rubenfiorini, i am a computer science teacher at Maquinista Savio Technical School 3
 - 👀 I’m interested in program 
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on programs 
 - 📫 How to reach me rfiorini@abc.gob.ar
-- 😄 Pronouns: Cap. Raian
-- ⚡ Fun fact: I like game Warzone!!!
 
-<!---
-rubenfiorini/rubenfiorini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
